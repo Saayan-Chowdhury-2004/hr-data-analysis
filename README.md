@@ -23,7 +23,7 @@ All of this is done using pure Python with Pandas — fast, reproducible and rob
 | `employee_data.csv` | Raw HR dataset with encoding issues |
 | `cleaned_hr_data.csv` | Cleaned dataset – ready for BI or modeling |
 | `hr_cleaning.ipynb` | Full cleaning pipeline code (load → fix → export) |
-| `HR_Data_Cleaning_Project_Presentation.pptx` | Project summary slides |
+| `HR_Data_Cleaning_Project_Presentation.pdf` | Project summary slides |
 | `README.md` | This file – project documentation |
 
 ---
