@@ -21,7 +21,7 @@ All of this is done using pure Python with Pandas — fast, reproducible and rob
 | File | Purpose |
 |------|---------|
 | `employee_data.csv` | Raw HR dataset with encoding issues |
-| `cleaned_hr_data_for_powerbi.csv` | Cleaned dataset – ready for BI or modeling |
+| `cleaned_hr_data.csv` | Cleaned dataset – ready for BI or modeling |
 | `hr_cleaning.ipynb` | Full cleaning pipeline code (load → fix → export) |
 | `HR_Data_Cleaning_Project_Presentation.pptx` | Project summary slides |
 | `README.md` | This file – project documentation |
@@ -32,7 +32,6 @@ All of this is done using pure Python with Pandas — fast, reproducible and rob
 
 - Python (Pandas, Regex, Datetime)
 - Jupyter Notebook for development
-- `.pptx` auto-generated using `python-pptx`
 
 ---
 
@@ -46,8 +45,6 @@ We’re talking:
 - Missing critical fields
 
 Now it’s a clean, analysis-ready CSV that can be thrown straight into Power BI, Excel, or ML models.
-
-The script is reusable — just replace the CSV and run the notebook.
 
 ---
 
