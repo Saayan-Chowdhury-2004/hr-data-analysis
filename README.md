@@ -28,12 +28,12 @@ The notebook demonstrates how to:
 
 ## Features
 
-✅ Handles corrupted encodings and messy text
-✅ Cleans inconsistent HR fields (names, departments, salaries)
-✅ Standardizes dates across formats
-✅ Calculates derived HR metrics like employee tenure
-✅ **Supports CSV, Excel, and JSON input**
-✅ Extensible for new HR datasets
+1. Handles corrupted encodings and messy text
+2. Cleans inconsistent HR fields (names, departments, salaries)
+3. Standardizes dates across formats
+4. Calculates derived HR metrics like employee tenure
+5. **Supports CSV, Excel, and JSON input**
+6. Extensible for new HR datasets
 
 ---
 
@@ -86,8 +86,4 @@ After Cleaning:
 * Expand pipeline to support **SQL database ingestion**
 * Build a **Streamlit dashboard** for visualization
 
----
 
-## 📜 License
-
-MIT License – free to use, modify, and distribute.
