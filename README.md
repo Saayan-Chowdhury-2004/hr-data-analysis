@@ -1,6 +1,6 @@
 # HR Data Cleaning & Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 Messy HR data is one of the biggest challenges in workforce analytics. This project provides a **reproducible pipeline** for cleaning, validating, and preparing HR datasets for further analysis or machine learning.
 
@@ -14,7 +14,7 @@ The notebook demonstrates how to:
 
 ---
 
-## 🗂️ File Structure
+## File Structure
 
 ```
 ├── employee_data.csv              # Raw messy HR dataset
@@ -26,7 +26,7 @@ The notebook demonstrates how to:
 
 ---
 
-## 🚀 Features
+## Features
 
 ✅ Handles corrupted encodings and messy text
 ✅ Cleans inconsistent HR fields (names, departments, salaries)
@@ -37,7 +37,7 @@ The notebook demonstrates how to:
 
 ---
 
-## 🔧 Usage
+## Usage
 
 ### 1. Install Requirements
 
@@ -61,7 +61,7 @@ df = load_hr_data("employee_data.json")  # JSON
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 Before Cleaning:
 
@@ -79,7 +79,7 @@ After Cleaning:
 
 ---
 
-## 🏗️ Next Steps
+## Next Steps
 
 * Add **unit tests** for validation (pytest)
 * Integrate **GitHub Actions** for CI/CD
